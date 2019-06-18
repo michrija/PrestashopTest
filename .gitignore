@@ -1,0 +1,16 @@
+# CakePHP 3
+
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+
+
+# Specific filter
+*.7z
+*.lock
+/notes/*
+/.phpintel/*
+\.phpintel/
+tests/
+/webroot/files/*
